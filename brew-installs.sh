@@ -24,6 +24,7 @@ brew install gmp
 brew install grep
 brew install node
 brew install pnpm
+brew install postgresql
 
 brew install git
 brew install git-lfs
