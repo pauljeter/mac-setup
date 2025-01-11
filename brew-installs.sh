@@ -29,6 +29,7 @@ brew install postgresql
 brew install git
 brew install git-lfs
 brew install github/gh/gh
+brew install expo-orbit
 
 brew install zsh
 
@@ -41,10 +42,11 @@ brew install --cask google-chrome
 brew install --cask homebrew/cask-versions/google-chrome-canary
 brew install --cask microsoft-edge
 brew install --cask iterm2
-brew install --cask evernote
+brew install --cask notion
 brew install --cask spotify
 brew install --cask tower
 brew install --cask visual-studio-code
+brew install --cask cursor
 brew install --cask karabiner-elements
 brew install --cask slack
 brew install --cask signal
