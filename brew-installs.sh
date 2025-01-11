@@ -30,11 +30,11 @@ brew install git
 brew install git-lfs
 brew install github/gh/gh
 brew install expo-orbit
+brew install docker
 
 brew install zsh
 
 #Apps
-brew install --cask dropbox
 brew install --cask google-drive
 brew install --cask firefox
 brew install --cask homebrew/cask-versions/firefox-nightly
