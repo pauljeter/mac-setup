@@ -51,7 +51,6 @@ brew install --cask karabiner-elements
 brew install --cask slack
 brew install --cask signal
 brew install --cask discord
-brew install --cask cleanmymac
 brew install --cask alfred
 brew install --cask figma
 brew install --cask lastpass
