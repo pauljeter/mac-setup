@@ -23,6 +23,7 @@ brew install wget --with-iri
 brew install gmp
 brew install grep
 brew install node
+brew install bun
 brew install pnpm
 brew install postgresql
 
@@ -31,6 +32,7 @@ brew install git-lfs
 brew install github/gh/gh
 brew install expo-orbit
 brew install docker
+brew install watchman
 
 brew install zsh
 
@@ -56,7 +58,10 @@ brew install --cask figma
 brew install --cask lastpass
 brew install --cask postman
 brew install --cask omnifocus
+brew install --cask cleanmymac
 brew install --cask mongodb-compass
+brew install --cask android-studio
+brew install --cask zulu@17
 
 # Remove outdated versions from the cellar.
 brew cleanup
