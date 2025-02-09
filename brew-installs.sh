@@ -61,6 +61,7 @@ brew install --cask lastpass
 brew install --cask postman
 brew install --cask omnifocus
 brew install --cask cleanmymac
+brew install --cask docker
 brew install --cask mongodb-compass
 brew install --cask android-studio
 brew install --cask zulu@17
