@@ -23,8 +23,10 @@ brew install wget --with-iri
 brew install gmp
 brew install grep
 brew install node
-brew install bun
 brew install pnpm
+brew install yarn
+brew install typescript
+brew install bun
 brew install postgresql
 
 brew install git
